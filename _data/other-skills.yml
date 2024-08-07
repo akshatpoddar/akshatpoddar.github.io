@@ -1,7 +1,22 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: ReactJS
+  percentage: 80
+  color: danger
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Django
+  percentage: 70
+  color: secondary
+
+
+- name: SQL
+  percentage: 70
+  color: secondary
+
+- name: PyTorch
+  percentage: 60
+  color: secondary
+
+- name: Docker
+  percentage: 60
+  color: secondary
+
+
