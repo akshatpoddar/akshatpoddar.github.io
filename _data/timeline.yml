@@ -1,15 +1,42 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
+- title: University of British Columbia, BSc. in Computer Science and Mathematics
+  from: 2020
+  to: 2024
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
+- title: Software Engineer Intern, Broadcom Inc.
+  from: January 2023
+  to: August 2023
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Undergraduate Academic Assistant, UBC 
+  from: July 2021
+  to: August 2021
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Undergraduate Teaching Assistant, UBC 
+  from: July 2021
+  to: August 2021
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Software Development Intern, Avant Garde Omnimedia
+  from: July 2021
+  to: August 2021
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
