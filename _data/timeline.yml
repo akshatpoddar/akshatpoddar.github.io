@@ -1,7 +1,8 @@
 - title: University of British Columbia, BSc. in Computer Science and Mathematics
   from: 2020
   to: 2024
-  description: Double major in Computer Science and Mathematics. Most of the Math courses
+  description: 
+  - Double major in Computer Science and Mathematics. Most of the Math courses
                focused on Pure Math, Graph Theory and Matrix Algebra. While CS courses included
                Software Engineering and Design, Data Structures and Algorithm and Machine Learning.
                My favourite courses were in Machine Learning and Software Design.
@@ -9,16 +10,18 @@
 - title: Software Engineer Intern, Broadcom Inc.
   from: January 2023
   to: August 2023
-  description: - Collaborated with cross-functional teams in an Agile environment, participating in sprint planning, code reviews, and daily stand-ups to ensure project alignment
-               - sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               - nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               - reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 
+  - Collaborated with cross-functional teams in an Agile environment, participating in sprint planning, code reviews, and daily stand-ups to ensure project alignment
+  - sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  - nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+  - reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 - title: Undergraduate Academic Assistant, UBC 
   from: July 2021
   to: August 2021
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  description: 
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
@@ -27,7 +30,8 @@
 - title: Undergraduate Teaching Assistant, UBC 
   from: July 2021
   to: August 2021
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  description: 
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
@@ -36,7 +40,8 @@
 - title: Software Development Intern, Avant Garde Omnimedia
   from: July 2021
   to: August 2021
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  description: 
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
