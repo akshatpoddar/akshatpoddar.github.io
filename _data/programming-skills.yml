@@ -12,7 +12,7 @@
 
 - name: Python
   percentage: 80
-  color: info
+  color: danger
 
 - name: C/C++
   percentage: 70
