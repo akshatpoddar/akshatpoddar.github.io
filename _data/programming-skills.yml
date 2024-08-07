@@ -12,9 +12,9 @@
 
 - name: Python
   percentage: 80
-  color: secondary
+  color: info
 
 - name: C/C++
   percentage: 70
-  color: secondary
+  color: info
 

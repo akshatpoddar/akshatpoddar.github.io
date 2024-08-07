@@ -12,37 +12,25 @@
   to: August 2023
   description: 
   - Collaborated with cross-functional teams in an Agile environment, participating in sprint planning, code reviews, and daily stand-ups to ensure project alignment
-  - sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-  - nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-  - reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Undergraduate Academic Assistant, UBC 
-  from: July 2021
-  to: August 2021
-  description: 
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - Developed and maintained microservices in Java, adhering to design patterns such as Singleton and Factory
+  - Performed automated and manual testing on virtual machines and Docker containers on GCP managed using Kubernetes for
+    orchestration, ensuring robust testing coverage and streamlined deployment processes
+  - Implemented CI/CD pipelines using Jenkins, automating the deployment and testing processes
+  - Led the upgrade of Gradle versions, optimizing build processes and reducing overall build times by 20%
 
 - title: Undergraduate Teaching Assistant, UBC 
   from: July 2021
   to: August 2021
   description: 
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - Provided in-depth tutorials and guidance on Java Object-Oriented Programming concepts, data structures, and algorithm design, enhancing students’ understanding and application of core principles
+  - Designed and conducted lab sessions focusing on practical programming skills, fostering a hands-on learning environment
+  - Assisted in the development and grading of assignments, midterms, and finals, providing constructive feedback
+               
 
-- title: Software Development Intern, Avant Garde Omnimedia
+- title: Undergraduate Academic Assistant, UBC 
   from: July 2021
   to: August 2021
   description: 
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - Contributed to the creation of an open-source Physics problem bank, integrating questions into the PrairieLearn platform to reduce educational costs for students
+  - Developed automated testing scripts using PyTest to validate the accuracy and functionality of a newly designed package
+  - Migrated extensive questions from multiple sources into a unified format using Python and YAML, ensuring data consistency
