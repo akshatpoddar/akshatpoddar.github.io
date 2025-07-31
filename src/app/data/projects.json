@@ -21,6 +21,13 @@
     "github": "https://github.com/akshatpoddar/jgu-reviews"
   },
   {
+    "name": "Socket Chat WebApp",
+    "image": "https://picsum.photos/id/241/200/300",
+    "description": "Developed a real-time messaging app using the MERN stack with TypeScript, featuring Socket.IO for instant communication. Implemented a REST API in Node.js and Express to handle authentication, chatroom routing, and message persistence. Integrated an LLM-powered moderator that enforces on-topic discussions, fact-checks claims, and detects logical fallacies.",
+    "technology": ["TypeScript", "NodeJS", "ExpressJS", "MongoDB", "ReactJS", "LLM", "Socket.IO"],
+    "github": "https://github.com/akshatpoddar/socket-chat-webapp"
+  },
+  {
     "name": "Bengal Iron Calculator",
     "image": "https://picsum.photos/id/239/200/300",
     "description": "Engineered a dynamic cost-calculation app based on user-selected items with advanced filtering and search functionalities. Integrated with Firebase to dynamically fetch product data, utilizing Firestore for data synchronization. Leveraged the MVVM design pattern to ensure efficient data management and separation of concerns. Reduced sales turnaround time by 40% due to improved quote accuracy and faster quote generation.",
