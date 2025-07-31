@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Semantic Segmentation of Point Clouds for 3D Object Feature Recognition",
+    "image": "https://picsum.photos/id/237/200/300",
+    "description": "Developed a machine learning model for semantic segmentation of 3D point clouds to identify and classify object features. Implemented advanced computer vision algorithms using PyTorch and deep learning techniques. The project involved processing large-scale 3D datasets and creating a robust system for real-time object recognition in 3D environments.",
+    "technology": ["Python", "PyTorch", "Computer Vision", "Machine Learning", "3D Point Clouds"],
+    "github": "https://github.com/ptellier/3D-surface-prediction"
+  },
+  {
+    "name": "JGU Reviews",
+    "image": "https://picsum.photos/id/238/200/300",
+    "description": "Built a comprehensive review platform for JGU (Jindal Global University) that allows students to rate and review courses, professors, and campus facilities. Features include user authentication, review submission, rating systems, and search functionality. The platform helps students make informed decisions about their academic choices.",
+    "technology": ["React", "Node.js", "MongoDB", "JavaScript", "Express"],
+    "github": "https://github.com/akshatpoddar/jgu-reviews"
+  },
+  {
+    "name": "Bengal Iron Calculator",
+    "image": "https://picsum.photos/id/239/200/300",
+    "description": "Developed a specialized calculator application for Bengal Iron calculations, providing accurate computational tools for engineering and manufacturing processes. The application features a user-friendly interface with advanced mathematical functions and real-time calculation capabilities for industrial applications.",
+    "technology": ["Python", "Tkinter", "Mathematical Computing", "GUI Development"],
+    "github": "https://github.com/akshatpoddar/bengal-iron-calculator"
+  }
+]

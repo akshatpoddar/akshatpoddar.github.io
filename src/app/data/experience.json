@@ -1,0 +1,49 @@
+[
+  {
+    "company": "The Gist: Summarized News App",
+    "role": "Software Development Intern",
+    "duration": "07/2025 - Present",
+    "location": "Vancouver, Canada",
+    "bullets": [
+      "Developed and maintained core features for the news summarization application",
+      "Collaborated with cross-functional teams to deliver high-quality software solutions",
+      "Implemented new features and optimized existing functionality for better user experience",
+      "Participated in code reviews and contributed to technical documentation"
+    ]
+  },
+  {
+    "company": "University of British Columbia",
+    "role": "Teaching Assistant (CPSC 317: Computer Networking)",
+    "duration": "09/2024 - 12/2024",
+    "location": "Vancouver, Canada",
+    "bullets": [
+      "Assisted in teaching computer networking concepts to undergraduate students",
+      "Led tutorial sessions and provided one-on-one support to students",
+      "Graded assignments and provided constructive feedback on student work",
+      "Helped develop course materials and practice problems for networking topics"
+    ]
+  },
+  {
+    "company": "Broadcom Inc.",
+    "role": "Software Engineer Intern",
+    "duration": "01/2023 - 08/2023",
+    "location": "Richmond, Canada",
+    "bullets": [
+      "Developed software solutions for semiconductor and infrastructure software products",
+      "Collaborated with engineering teams to design and implement new features",
+      "Participated in code reviews and contributed to software documentation",
+      "Worked on debugging and optimizing existing software systems"
+    ]
+  },
+  {
+    "company": "University of British Columbia",
+    "role": "Undergraduate Academic Assistant",
+    "duration": "05/2021 - 08/2021",
+    "location": "Kelowna, Canada",
+    "bullets": [
+      "Integrated questions into the PrairieLearn platform to create an open-source Physics problem bank",
+      "Developed automated testing scripts using PyTest to validate the accuracy and functionality of a new Python package",
+      "Migrated extensive questions from multiple sources into a unified format using Python and YAML, ensuring data consistency"
+    ]
+  }
+]
