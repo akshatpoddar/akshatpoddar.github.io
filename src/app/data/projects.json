@@ -23,8 +23,8 @@
   {
     "name": "Bengal Iron Calculator",
     "image": "https://picsum.photos/id/239/200/300",
-    "description": "Developed a specialized calculator application for Bengal Iron calculations, providing accurate computational tools for engineering and manufacturing processes. The application features a user-friendly interface with advanced mathematical functions and real-time calculation capabilities for industrial applications.",
-    "technology": ["Java", "Kotlin", "MVVM", "Android Studio", "Retrofit"],
+    "description": "Engineered a dynamic cost-calculation app based on user-selected items with advanced filtering and search functionalities. Integrated with Firebase to dynamically fetch product data, utilizing Firestore for data synchronization. Leveraged the MVVM design pattern to ensure efficient data management and separation of concerns. Reduced sales turnaround time by 40% due to improved quote accuracy and faster quote generation.",
+    "technology": ["Java", "Kotlin", "MVVM", "Android Studio", "Retrofit", "Firebase", "Firestore"],
     "github": "https://github.com/akshatpoddar/bengal-iron-calculator"
   }
 ]
