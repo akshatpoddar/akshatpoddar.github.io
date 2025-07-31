@@ -1,6 +1,6 @@
 [
   {
-    "name": "Y-Hacker News Mobile App",
+    "name": "Y-Hacker News: Mobile App",
     "image": "https://picsum.photos/id/240/200/300",
     "description": "Built a cross-platform mobile app using React Native that fetches and displays curated content from the Y-Hacker News API. Designed and implemented a responsive, animated UI with rich media previews using the Microlink API. Integrated ElevenLabs TTS API to convert story text into high-quality speech, enhancing accessibility. Optimized performance by implementing story filtering, pagination, and efficient API data handling.",
     "technology": ["React Native", "Expo", "Microlink API", "HackerNews API", "ElevenLabs"],
@@ -24,7 +24,7 @@
     "name": "Bengal Iron Calculator",
     "image": "https://picsum.photos/id/239/200/300",
     "description": "Developed a specialized calculator application for Bengal Iron calculations, providing accurate computational tools for engineering and manufacturing processes. The application features a user-friendly interface with advanced mathematical functions and real-time calculation capabilities for industrial applications.",
-    "technology": ["Python", "Tkinter", "Mathematical Computing", "GUI Development"],
+    "technology": ["Java", "Kotlin", "MVVM", "Android Studio", "Retrofit"],
     "github": "https://github.com/akshatpoddar/bengal-iron-calculator"
   }
 ]
