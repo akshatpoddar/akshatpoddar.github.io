@@ -37,6 +37,9 @@ jobs:
         with:
           path: ./out
 
+      - name: List files  
+        run: ls -la # or use tree . for a tree like structure  
+
   deploy:
     environment:
       name: github-pages
