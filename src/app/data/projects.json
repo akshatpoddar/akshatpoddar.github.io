@@ -17,7 +17,7 @@
     "name": "JGU Reviews",
     "image": "https://picsum.photos/id/238/200/300",
     "description": "Built a comprehensive review platform for JGU (Jindal Global University) that allows students to rate and review courses, professors, and campus facilities. Features include user authentication, review submission, rating systems, and search functionality. The platform helps students make informed decisions about their academic choices.",
-    "technology": ["React", "Node.js", "MongoDB", "JavaScript", "Express"],
+    "technology": ["Python", "Django", "PostgreSQL", "Redis", "Docker", "Selenium", "BeautifulSoup", "Nginx", "Gunicorn"],
     "github": "https://github.com/akshatpoddar/jgu-reviews"
   },
   {

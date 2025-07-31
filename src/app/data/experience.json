@@ -5,10 +5,9 @@
     "duration": "07/2025 - Present",
     "location": "Vancouver, Canada",
     "bullets": [
-      "Developed and maintained core features for the news summarization application",
-      "Collaborated with cross-functional teams to deliver high-quality software solutions",
-      "Implemented new features and optimized existing functionality for better user experience",
-      "Participated in code reviews and contributed to technical documentation"
+      "Migrated an existing B2C iOS application from Swift to a modern cross-platform stack using React Native, Expo, and TypeScript, which improved development velocity and enabled consistent UI/UX across both iOS and Android platforms",
+      "Built full-stack features for both B2B and B2C web applications, utilizing Next.js and Supabase for database operations and ads API integration",
+      "Transformed Figma design prototypes into pixel-perfect, interactive UI components"
     ]
   },
   {
@@ -17,10 +16,9 @@
     "duration": "09/2024 - 12/2024",
     "location": "Vancouver, Canada",
     "bullets": [
-      "Assisted in teaching computer networking concepts to undergraduate students",
-      "Led tutorial sessions and provided one-on-one support to students",
-      "Graded assignments and provided constructive feedback on student work",
-      "Helped develop course materials and practice problems for networking topics"
+      "Led weekly hands-on Java and C tutorials covering HTTP, WebSockets, TCP, DNS, and SMTP protocols",
+      "Designed lab exercises that guided students through the implementation of networking protocols in Java and C",
+      "Graded networking assignments and exams, providing targeted feedback to help students improve code quality"
     ]
   },
   {
@@ -29,10 +27,11 @@
     "duration": "01/2023 - 08/2023",
     "location": "Richmond, Canada",
     "bullets": [
-      "Developed software solutions for semiconductor and infrastructure software products",
-      "Collaborated with engineering teams to design and implement new features",
-      "Participated in code reviews and contributed to software documentation",
-      "Worked on debugging and optimizing existing software systems"
+      "Led the upgrade of Gradle versions, which optimized build processes and reduced overall build times by 20%",
+      "Performed automated and manual testing on VMs and Docker containers on GCP, managed using Kubernetes",
+      "Implemented end-to-end CI/CD pipelines using Jenkins, and led the migration of external Java microservices into the main repository, resulting in a 30% reduction in build times",
+      "Took ownership of improving data flow within the Patch Management System and designed a comprehensive functional specification, which reduced processing delays and improved maintainability",
+      "Collaborated across AGILE teams to document workflows, deploy microservices, and improve testing coverage"
     ]
   },
   {
