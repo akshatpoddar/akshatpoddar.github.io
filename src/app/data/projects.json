@@ -1,5 +1,12 @@
 [
   {
+    "name": "Y-Hacker News Mobile App",
+    "image": "https://picsum.photos/id/240/200/300",
+    "description": "Built a cross-platform mobile app using React Native that fetches and displays curated content from the Y-Hacker News API. Designed and implemented a responsive, animated UI with rich media previews using the Microlink API. Integrated ElevenLabs TTS API to convert story text into high-quality speech, enhancing accessibility. Optimized performance by implementing story filtering, pagination, and efficient API data handling.",
+    "technology": ["React Native", "Expo", "Microlink API", "HackerNews API", "ElevenLabs"],
+    "github": "https://github.com/akshatpoddar/TimesOfTech"
+  },
+  {
     "name": "Semantic Segmentation of Point Clouds for 3D Object Feature Recognition",
     "image": "https://picsum.photos/id/237/200/300",
     "description": "Developed a machine learning model for semantic segmentation of 3D point clouds to identify and classify object features. Implemented advanced computer vision algorithms using PyTorch and deep learning techniques. The project involved processing large-scale 3D datasets and creating a robust system for real-time object recognition in 3D environments.",
