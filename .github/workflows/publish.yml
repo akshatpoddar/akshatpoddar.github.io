@@ -33,7 +33,7 @@ jobs:
         run: npx next build
 
       - name: List files  
-        run: tree .  
+        run: ls ./out
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
