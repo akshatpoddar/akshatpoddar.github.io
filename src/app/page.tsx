@@ -11,7 +11,7 @@ export default function Home() {
           <div className="max-w-4xl mx-auto">
             <div className="mb-8">
               <Image
-                src="https://akshatpoddar.github.io/face_pic.jpeg"
+                src="/face_pic.jpeg"
                 alt="Akshat's face"
                 width={200}
                 height={200}
