@@ -16,6 +16,7 @@ export default function Home() {
                 width={200}
                 height={200}
                 className="rounded-full mx-auto shadow-lg border-4 border-white"
+                unoptimized
               />
             </div>
             <h1 className="text-5xl font-bold text-gray-800 mb-4">
@@ -26,8 +27,10 @@ export default function Home() {
             </p>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed mb-8">
               I'm a passionate software engineer who loves building innovative solutions 
-              and turning ideas into reality. I specialize in full-stack development 
-              and enjoy working with modern technologies to create impactful applications.
+              and turning ideas into reality. I specialize in full-stack development with 
+              a strong interest in mobile app development and AI/ML Applications.
+              I enjoy working with backend systems to create scalable and efficient applications.
+              I love music, climbing, and movies. 
             </p>
             <div className="flex justify-center space-x-6">
               <a
